@@ -1,1 +1,2 @@
-Generando conflicto para actividad (PAV1 Matias)
+Generando conflicto para actividad (PAV1 Matias) Para agregar los cambios realizados utilidamos el add . (Hernan);
+
